@@ -1472,7 +1472,7 @@
         },
         {
           "abbreviation" : "UofSC",
-          "prestige" : "75",
+          "prestige" : "60",
           "hexColor" : "#73000A",
           "offCoordinator" : {
             "contractLength" : "4",
