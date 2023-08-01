@@ -148,7 +148,7 @@
             "name" : "Dan Lanning",
             "contractYear" : "1"
           },
-          "rival" : ["ALA", "AUB", "FLA", "SC"],
+          "rival" : ["ALA", "AUB", "FLA", "UofSC"],
           "rivalryNames" : {
             "FLA": "World's Largest Cocktail Party",
             "AUB": "Deep South's Oldest Rivalry",
@@ -1164,7 +1164,7 @@
             "name" : "Brent Venables",
             "contractYear" : "1"
           },
-          "rival" : ["SC", "FSU", "GT", "NCST", "BC", "NCST"],
+          "rival" : ["UofSC", "FSU", "GT", "UNC", "BC", "NCST"],
           "rivalryNames" : {
             "BC": "Battle for the Leather Helmet",
             "NCST": "Textile Bowl",
@@ -1244,8 +1244,8 @@
           "state" : "Florida"
         },
         {
-          "abbreviation" : "NC",
-          "prestige" : "85",
+          "abbreviation" : "UNC",
+          "prestige" : "95",
           "hexColor" : "#7BAFD4",
           "offCoordinator" : {
             "contractLength" : "1",
@@ -1275,26 +1275,26 @@
             "name" : "Tommy Thigpen",
             "contractYear" : "1"
           },
-          "rival" : ["NCST", "DUKE", "SC", "UVA", "WF"],
+          "rival" : ["NCST", "DUKE", "UofSC", "UVA", "WF"],
           "rivalryNames" : {
             "DUKE": "Battle for the Victory Bell",
             "UVA": "The South's Oldest Rivalry",
-            "SC": "Battle for the Carolinas"
+            "UofSC": "Battle for the Carolinas"
           },
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
-            "age" : "69",
-            "ratOff" : "90",
+            "age" : "46",
+            "ratOff" : "99",
             "cumulativePrestige" : "25",
-            "ratDef" : "75",
-            "homeState" : "Minnesota",
-            "ratPot" : "90",
-            "hometown" : "Hanahan",
-            "ratTalent" : "90",
+            "ratDef" : "99",
+            "homeState" : "South Carolina",
+            "ratPot" : "99",
+            "hometown" : "Charleston",
+            "ratTalent" : "99",
             "baselinePrestige" : "85",
-            "name" : "Mack Brown",
-            "contractYear" : "1"
+            "name" : "Shane Beamer",
+            "contractYear" : "7"
           },
           "name" : "North Carolina",
           "state" : "North Carolina"
@@ -1471,22 +1471,22 @@
           "state" : "Florida"
         },
         {
-          "abbreviation" : "SC",
+          "abbreviation" : "UofSC",
           "prestige" : "75",
           "hexColor" : "#73000A",
           "offCoordinator" : {
-            "contractLength" : "1",
+            "contractLength" : "4",
             "startYear" : "2020",
-            "age" : "58",
+            "age" : "48",
             "cumulativePrestige" : "0",
             "homeState" : "Washington",
-            "ratPot" : "50",
+            "ratPot" : "99",
             "hometown" : "Bethel",
-            "ratTalent" : "47",
+            "ratTalent" : "99",
             "baselinePrestige" : "65",
-            "coachingAbility" : "76",
+            "coachingAbility" : "99",
             "name" : "Mike Bobo",
-            "contractYear" : "1"
+            "contractYear" : "4"
           },
           "defCoordinator" : {
             "contractLength" : "1",
@@ -1494,18 +1494,18 @@
             "age" : "47",
             "cumulativePrestige" : "0",
             "homeState" : "Georgia",
-            "ratPot" : "81",
+            "ratPot" : "99",
             "hometown" : "Mobile",
-            "ratTalent" : "76",
+            "ratTalent" : "99",
             "baselinePrestige" : "65",
-            "coachingAbility" : "66",
+            "coachingAbility" : "99",
             "name" : "Travaris Robinson",
-            "contractYear" : "1"
+            "contractYear" : "4"
           },
-          "rival" : ["CLEM", "NC", "NCST", "GEO", "GT"],
+          "rival" : ["CLEM", "UNC", "NCST", "GEO", "GT"],
           "rivalryNames" : {
             "CLEM": "Battle of the Palmetto State",
-            "NC": "Battle for the Carolinas"
+            "UNC": "Battle for the Carolinas"
           },
           "headCoach" : {
             "contractLength" : "6",
@@ -1557,7 +1557,7 @@
             "name" : "Tony Gibson",
             "contractYear" : "1"
           },
-          "rival" : ["NC", "CLEM", "SC", "WF", "CLEM", "DUKE"],
+          "rival" : ["UNC", "CLEM", "UofSC", "WF", "CLEM", "DUKE"],
           "rivalryNames" : {
             "CLEM": "Textile Bowl"
           },
@@ -1665,7 +1665,7 @@
             "name" : "Lyle Hemphill",
             "contractYear" : "1"
           },
-          "rival" : ["MARY", "DUKE", "NC", "NCST"],
+          "rival" : ["MARY", "DUKE", "UNC", "NCST"],
           "rivalryNames" : {
             
           },
@@ -3506,7 +3506,7 @@
             "name" : "Archie Mcdaniel",
             "contractYear" : "1"
           },
-          "rival" : ["VT", "CLEM", "SC", "AUB"],
+          "rival" : ["VT", "CLEM", "UofSC", "AUB"],
           "rivalryNames" : {
             "GEO": "Clean, Old-Fashioned Hate",
             "VT": "Battle of the Techs"
@@ -3782,9 +3782,9 @@
             "name" : "Ben Albert",
             "contractYear" : "1"
           },
-          "rival" : ["TEM", "NC", "WF", "NCST", "MARY"],
+          "rival" : ["TEM", "UNC", "WF", "NCST", "MARY"],
           "rivalryNames" : {
-            "NC": "Battle for the Victory Bell"
+            "UNC": "Battle for the Victory Bell"
           },
           "headCoach" : {
             "contractLength" : "6",
